@@ -1,6 +1,10 @@
 # foodblogtoday
 ICT171 Project Proposal – Food Blog Today
 🌐 [http://foodblogtoday.com](http://foodblogtoday.com)
+
+##  Video Explainer  
+[![Watch the video](https://img.youtube.com/vi/iibAHWCqyyw/0.jpg)](https://youtu.be/iibAHWCqyyw)
+
 ## Project Overview
 This project demonstrates how to deploy a basic website on an Amazon EC2 instance as a practical implementation of ICT171 Infrastructure as a Service (IaaS). The server uses the Ubuntu operating system and is configured with the LAMP technology stack: Apache for website hosting, MySQL for database management, and PHP for server-side scripting. The website, called Food Blog Today, aims to develop into a platform for sharing simple recipes and food ideas. Currently, the website displays static HTML content along with necessary metadata such as student ID and project information. The domain name (foodblogtoday.com) has been registered and configured with AWS Route 53, and SSL encryption has been enabled using Let’s Encrypt and Certbot to ensure secure HTTPS access. The server is protected by basic firewall rules (UFW) and can be accessed remotely via SSH. Through this project, I learned how to configure and provision cloud-based virtual machines, install and maintain necessary web server software, and perform basic security hardening. This project also solidified my understanding of the Linux command line environment, system package management, and the basics of scalable, internet-accessible application infrastructure. This project laid the foundation for future developments, such as implementing dynamic user input, storing and retrieving content in a database, and ultimately deploying a fully functional blogging application in a secure and scalable cloud environment.
 
