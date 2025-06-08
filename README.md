@@ -65,7 +65,10 @@ chmod +x backup.sh
 ### Homepage
 ![Homepage](screenshots/index.png)
 
-### Comment View
+### Comment Form
+![Comment Form](screenshots/comment.png)
+
+### Comment List
 ![Comment View](screenshots/view.png)
 
 ## Author
